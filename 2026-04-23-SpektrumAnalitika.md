@@ -39,10 +39,10 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#demokratska-partija-socijalista-crne-gore-(s&d)">Demokratska partija socijalista Crne Gore (S&D)</a> | 0 | 2 | 2–3 |2–3 |2–3 |2–3 |
-| <a href="#pokret-evropa-sad-(epp)">Pokret Evropa sad (EPP)</a> | 0 | 2 | 2 |2 |1–2 |1–2 |
-| <a href="#нова-српска-демократија-(ni)">Нова српска демократија (NI)</a> | 0 | 1 | 1 |1 |1 |1–2 |
-| <a href="#демократска-народна-партија-(ni)">Демократска народна партија (NI)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
+| <a href="#demokratska-partija-socijalista-crne-gore-(s&d)">Demokratska partija socijalista Crne Gore (S&D)</a> | 0 | 2 | 2 |2 |2–3 |2–3 |
+| <a href="#pokret-evropa-sad-(epp)">Pokret Evropa sad (EPP)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#нова-српска-демократија-(ni)">Нова српска демократија (NI)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#демократска-народна-партија-(ni)">Демократска народна партија (NI)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#bošnjačka-stranka-(epp)">Bošnjačka stranka (EPP)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#demokratska-crna-gora-(epp)">Demokratska Crna Gora (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#građanski-pokret-ujedinjena-reformska-akcija-(greens/efa)">Građanski pokret Ujedinjena reformska akcija (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -66,8 +66,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 78% | 100% | Median |
-| 3 | 22% | 22% |  |
+| 2 | 97% | 100% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Pokret Evropa sad (EPP)
@@ -79,10 +79,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 4% | 100% |  |
-| 2 | 96% | 96% | Median |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% | Majority |
+| 1 | 89% | 100% | Median |
+| 2 | 11% | 11% |  |
+| 3 | 0% | 0% |  |
 
 ### Нова српска демократија (NI)
 
@@ -93,8 +92,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 98% | 100% | Median |
-| 2 | 2% | 2% |  |
+| 1 | 16% | 100% |  |
+| 2 | 84% | 84% | Median |
 | 3 | 0% | 0% |  |
 
 ### Демократска народна партија (NI)
@@ -105,8 +104,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Last Result, Median |
-| 1 | 6% | 6% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 16% | 16% |  |
 | 2 | 0% | 0% |  |
 
 ### Bošnjačka stranka (EPP)
@@ -117,8 +116,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% | Last Result |
-| 1 | 74% | 74% | Median |
+| 0 | 14% | 100% | Last Result |
+| 1 | 86% | 86% | Median |
 | 2 | 0% | 0% |  |
 
 ### Demokratska Crna Gora (EPP)
@@ -129,9 +128,7 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0.2% | 0.2% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Građanski pokret Ujedinjena reformska akcija (Greens/EFA)
 
@@ -141,9 +138,7 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Evropski savez (S&D)
 
@@ -153,9 +148,7 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Покрет народног повјерења (*)
 
@@ -246,20 +239,21 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Pokret Evropa sad (EPP) – Bošnjačka stranka (EPP) – Demokratska Crna Gora (EPP) | 0 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
-| Нова српска демократија (NI) – Демократска народна партија (NI) – Alternativa Shqiptare (NI) | 0 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
+| Demokratska partija socijalista Crne Gore (S&D) – Evropski savez (S&D) – Социјалистичка народна партија Црне Горе (S&D) | 0 | 2 | 0% | 2 | 2 | 2–3 | 2–3 |
+| Нова српска демократија (NI) – Демократска народна партија (NI) – Alternativa Shqiptare (NI) | 0 | 2 | 0% | 2 | 2 | 2 | 2 |
+| Pokret Evropa sad (EPP) – Bošnjačka stranka (EPP) – Demokratska Crna Gora (EPP) | 0 | 2 | 0% | 2 | 2 | 1–2 | 1–2 |
 | Građanski pokret Ujedinjena reformska akcija (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
-### Pokret Evropa sad (EPP) – Bošnjačka stranka (EPP) – Demokratska Crna Gora (EPP)
+### Demokratska partija socijalista Crne Gore (S&D) – Evropski savez (S&D) – Социјалистичка народна партија Црне Горе (S&D)
 
-![Graph with seats probability mass function not yet produced](2026-04-23-SpektrumAnalitika-coalitions-seats-pmf-pes–bs–dcg.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-04-23-SpektrumAnalitika-coalitions-seats-pmf-dps–es–снпцг.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.1% | 100% |  |
-| 2 | 30% | 99.9% |  |
-| 3 | 70% | 70% | Median |
+| 1 | 0% | 100% |  |
+| 2 | 97% | 100% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Нова српска демократија (NI) – Демократска народна партија (NI) – Alternativa Shqiptare (NI)
@@ -269,8 +263,18 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 92% | 100% | Median |
-| 2 | 8% | 8% |  |
+| 1 | 0% | 100% |  |
+| 2 | 100% | 100% | Median |
+
+### Pokret Evropa sad (EPP) – Bošnjačka stranka (EPP) – Demokratska Crna Gora (EPP)
+
+![Graph with seats probability mass function not yet produced](2026-04-23-SpektrumAnalitika-coalitions-seats-pmf-pes–bs–dcg.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 3% | 100% |  |
+| 2 | 97% | 97% | Median |
 | 3 | 0% | 0% |  |
 
 ### Građanski pokret Ujedinjena reformska akcija (Greens/EFA)
@@ -279,9 +283,7 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Technical Information
@@ -295,6 +297,6 @@
 ### Calculations
 
 + **Sample size:** 615
-+ **Simulations done:** 2,097,152
-+ **Error estimate:** 3.52%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 2.35%
 
