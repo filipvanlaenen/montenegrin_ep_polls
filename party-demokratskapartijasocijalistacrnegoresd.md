@@ -82,7 +82,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis | 2 | 2 | 2 | 2 | 2 |
 | [15 January 2026](2026-01-15-SpektrumAnalitika.html) | Spektrum Analitika |  |  |  |  |  |
@@ -114,8 +114,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 93% | 100% | Median |
-| 3 | 7% | 7% |  |
+| 2 | 89% | 100% | Median |
+| 3 | 11% | 11% |  |
 | 4 | 0% | 0% | Majority |
 
 

@@ -62,7 +62,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
-| [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 0 | 0 | 0 | 0–1 | 0–1 |
+| [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis | 0 | 0 | 0 | 0 | 0 |
 | [15 January 2026](2026-01-15-SpektrumAnalitika.html) | Spektrum Analitika |  |  |  |  |  |
 | [25 September–6 October 2025](2025-10-06-CeDem.html) | CeDem |  |  |  |  |  |
