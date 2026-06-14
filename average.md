@@ -6,13 +6,13 @@
 
 The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | URA | DPS | ES | ЗбЦГ | СНП ЦГ | BS | DCG | PES! | PzP | ASh | ДНП | НСД | FORCA | PCG | PzS | Preokret | UDSH | ПНП | УЦГ |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 4–9% <br> 0 | 20–29% <br> 2–3 | 3–7% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 3–8% <br> 0–1 | 5–8% <br> 0 | 13–23% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 6–10% <br> 0–1 | 9–18% <br> 1 | 0–1% <br> 0 | 0–2% <br> 0 | N/A <br> N/A | 0–2% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 |
-| [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 4–7% <br> 0 | 23–30% <br> 2–3 | 3–7% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 5–9% <br> 0–1 | 5–9% <br> 0 | 17–24% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 6–10% <br> 0–1 | 13–18% <br> 1 | 0–1% <br> 0 | 0–2% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 |
-| [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis | 6–9% <br> 0 | 20–24% <br> 2 | 4–7% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 3–5% <br> 0 | 5–7% <br> 0 | 13–17% <br> 1 | N/A <br> N/A | N/A <br> N/A | 6–8% <br> 0 | 9–12% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | URA | DPS | ES | СНП ЦГ | BS | DCG | PES! | PzP | ASh | ДНП | НСД | FORCA | PCG | PzS | Preokret | UDSH | ПНП | УЦГ |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | Poll Average | 4–9% <br> 0–1 | 20–29% <br> 2–3 | 3–7% <br> 0 | 1–3% <br> 0 | 3–8% <br> 0–1 | 5–8% <br> 0 | 13–23% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 6–10% <br> 0–1 | 9–18% <br> 1–2 | 0–1% <br> 0 | 0–2% <br> 0 | N/A <br> N/A | 0–2% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 |
+| [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 4–7% <br> 0 | 23–30% <br> 2–3 | 3–7% <br> 0 | 1–3% <br> 0 | 5–9% <br> 0–1 | 5–9% <br> 0 | 17–24% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 6–10% <br> 0–1 | 13–18% <br> 1–2 | 0–1% <br> 0 | 0–2% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 |
+| [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis | 6–9% <br> 0–1 | 20–24% <br> 2–3 | 4–7% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0 | 5–7% <br> 0 | 13–17% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–8% <br> 0–1 | 9–12% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -22,7 +22,6 @@ Only polls for which at least the sample size has been published are included in
 + **URA:** Građanski pokret Ujedinjena reformska akcija (Greens/EFA)
 + **DPS:** Demokratska partija socijalista Crne Gore (S&D)
 + **ES:** Evropski savez (S&D)
-+ **ЗбЦГ:** За будућност Црне Горе (S&D)
 + **СНП ЦГ:** Социјалистичка народна партија Црне Горе (S&D)
 + **BS:** Bošnjačka stranka (EPP)
 + **DCG:** Demokratska Crna Gora (EPP)
@@ -52,7 +51,6 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#građanski-pokret-ujedinjena-reformska-akcija-(greens/efa)">Građanski pokret Ujedinjena reformska akcija (Greens/EFA)</a> | 0.0% | 6.5% | 4.7–8.0% |4.4–8.3% | 4.1–8.6% | 3.6–9.2% |
 | <a href="#demokratska-partija-socijalista-crne-gore-(s&d)">Demokratska partija socijalista Crne Gore (S&D)</a> | 0.0% | 23.9% | 21.1–27.9% |20.6–28.7% | 20.2–29.4% | 19.5–30.6% |
 | <a href="#evropski-savez-(s&d)">Evropski savez (S&D)</a> | 0.0% | 5.2% | 4.0–6.3% |3.7–6.6% | 3.4–6.9% | 2.9–7.4% |
-| <a href="#за-будућност-црне-горе-(s&d)">За будућност Црне Горе (S&D)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#социјалистичка-народна-партија-црне-горе-(s&d)">Социјалистичка народна партија Црне Горе (S&D)</a> | 0.0% | 1.9% | 1.2–2.5% |1.0–2.7% | 0.9–2.9% | 0.7–3.3% |
 | <a href="#bošnjačka-stranka-(epp)">Bošnjačka stranka (EPP)</a> | 0.0% | 5.2% | 3.7–7.6% |3.5–8.1% | 3.3–8.5% | 3.0–9.4% |
 | <a href="#demokratska-crna-gora-(epp)">Demokratska Crna Gora (EPP)</a> | 0.0% | 6.2% | 5.2–7.4% |4.9–7.8% | 4.7–8.2% | 4.3–9.0% |
@@ -373,18 +371,17 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#građanski-pokret-ujedinjena-reformska-akcija-(greens/efa)">Građanski pokret Ujedinjena reformska akcija (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#građanski-pokret-ujedinjena-reformska-akcija-(greens/efa)">Građanski pokret Ujedinjena reformska akcija (Greens/EFA)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#demokratska-partija-socijalista-crne-gore-(s&d)">Demokratska partija socijalista Crne Gore (S&D)</a> | 0 | 2 | 2–3 |2–3 | 2–3 | 2–3 |
 | <a href="#evropski-savez-(s&d)">Evropski savez (S&D)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#за-будућност-црне-горе-(s&d)">За будућност Црне Горе (S&D)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#социјалистичка-народна-партија-црне-горе-(s&d)">Социјалистичка народна партија Црне Горе (S&D)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#bošnjačka-stranka-(epp)">Bošnjačka stranka (EPP)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#demokratska-crna-gora-(epp)">Demokratska Crna Gora (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#demokratska-crna-gora-(epp)">Demokratska Crna Gora (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
 | <a href="#pokret-evropa-sad-(epp)">Pokret Evropa sad (EPP)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#pokret-za-promjene-(ecr)">Pokret za promjene (ECR)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#alternativa-shqiptare-(ni)">Alternativa Shqiptare (NI)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#демократска-народна-партија-(ni)">Демократска народна партија (NI)</a> | 0 | 0 | 0 |0 | 0–1 | 0–1 |
-| <a href="#нова-српска-демократија-(ni)">Нова српска демократија (NI)</a> | 0 | 1 | 1 |1 | 1 | 1–2 |
+| <a href="#демократска-народна-партија-(ni)">Демократска народна партија (NI)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#нова-српска-демократија-(ni)">Нова српска демократија (NI)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#forca-e-re-demokratike-(*)">Forca e Re Demokratike (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#pozitivna-crna-gora-(*)">Pozitivna Crna Gora (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#pravda-za-sve-(*)">Pravda za sve (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -401,8 +398,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.5% | 100% | Last Result, Median |
-| 1 | 0.5% | 0.5% |  |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 15% | 15% |  |
 | 2 | 0% | 0% |  |
 
 ### Demokratska partija socijalista Crne Gore (S&D)
@@ -415,8 +412,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 89% | 100% | Median |
-| 3 | 11% | 11% |  |
+| 2 | 81% | 100% | Median |
+| 3 | 19% | 19% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Evropski savez (S&D)
@@ -427,13 +424,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-### За будућност Црне Горе (S&D)
-
-*For a full overview of the results for this party, see the [За будућност Црне Горе (S&D)](party-забудућностцрнегореsd.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-забудућностцрнегореsd.png "Seats Probability Mass Function")
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0.3% | 0.3% |  |
+| 2 | 0% | 0% |  |
 
 ### Социјалистичка народна партија Црне Горе (S&D)
 
@@ -453,8 +446,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 63% | 100% | Last Result, Median |
-| 1 | 37% | 37% |  |
+| 0 | 57% | 100% | Last Result, Median |
+| 1 | 43% | 43% |  |
 | 2 | 0% | 0% |  |
 
 ### Demokratska Crna Gora (EPP)
@@ -465,8 +458,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
+| 0 | 99.3% | 100% | Last Result, Median |
+| 1 | 0.7% | 0.7% |  |
 | 2 | 0% | 0% |  |
 
 ### Pokret Evropa sad (EPP)
@@ -478,8 +471,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 52% | 100% | Median |
-| 2 | 48% | 48% |  |
+| 1 | 77% | 100% | Median |
+| 2 | 23% | 23% |  |
 | 3 | 0% | 0% |  |
 
 ### Pokret za promjene (ECR)
@@ -506,8 +499,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 3% | 3% |  |
+| 0 | 44% | 100% | Last Result |
+| 1 | 56% | 56% | Median |
 | 2 | 0% | 0% |  |
 
 ### Нова српска демократија (NI)
@@ -518,9 +511,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% | Last Result |
-| 1 | 98.7% | 99.7% | Median |
-| 2 | 1.0% | 1.0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 57% | 100% | Median |
+| 2 | 43% | 43% |  |
 | 3 | 0% | 0% |  |
 
 ### Forca e Re Demokratike (*)
@@ -598,35 +591,23 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Demokratska partija socijalista Crne Gore (S&D) – Evropski savez (S&D) – За будућност Црне Горе (S&D) – Социјалистичка народна партија Црне Горе (S&D) | 0 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
-| Bošnjačka stranka (EPP) – Demokratska Crna Gora (EPP) – Pokret Evropa sad (EPP) | 0 | 2 | 0% | 1–3 | 1–3 | 1–3 | 1–3 |
-| Alternativa Shqiptare (NI) – Демократска народна партија (NI) – Нова српска демократија (NI) | 0 | 1 | 0% | 1 | 1 | 1–2 | 1–2 |
+| Demokratska partija socijalista Crne Gore (S&D) – Evropski savez (S&D) – Социјалистичка народна партија Црне Горе (S&D) | 0 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Alternativa Shqiptare (NI) – Демократска народна партија (NI) – Нова српска демократија (NI) | 0 | 2 | 0% | 2 | 2 | 2 | 1–2 |
+| Bošnjačka stranka (EPP) – Demokratska Crna Gora (EPP) – Pokret Evropa sad (EPP) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Građanski pokret Ujedinjena reformska akcija (Greens/EFA) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forca e Re Demokratike (*) – Pozitivna Crna Gora (*) – Pravda za sve (*) – Preokret za sigurnu Crnu Goru (*) – Unioni Demokratik i Shqiptarëve (*) – Покрет народног повјерења (*) – Уједињена Црна Гора (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-| Građanski pokret Ujedinjena reformska akcija (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Pokret za promjene (ECR) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
-### Demokratska partija socijalista Crne Gore (S&D) – Evropski savez (S&D) – За будућност Црне Горе (S&D) – Социјалистичка народна партија Црне Горе (S&D)
+### Demokratska partija socijalista Crne Gore (S&D) – Evropski savez (S&D) – Социјалистичка народна партија Црне Горе (S&D)
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-dps–es–збцг–снпцг.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-dps–es–снпцг.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 89% | 100% | Median |
-| 3 | 11% | 11% |  |
-| 4 | 0% | 0% | Majority |
-
-### Bošnjačka stranka (EPP) – Demokratska Crna Gora (EPP) – Pokret Evropa sad (EPP)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-bs–dcg–pes.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 50% | 100% | Median |
-| 2 | 15% | 50% |  |
-| 3 | 35% | 35% |  |
+| 2 | 80% | 100% | Median |
+| 3 | 20% | 20% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Alternativa Shqiptare (NI) – Демократска народна партија (NI) – Нова српска демократија (NI)
@@ -635,10 +616,31 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 96% | 99.8% | Median |
-| 2 | 4% | 4% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 1.0% | 100% |  |
+| 2 | 99.0% | 99.0% | Median |
 | 3 | 0% | 0% |  |
+
+### Bošnjačka stranka (EPP) – Demokratska Crna Gora (EPP) – Pokret Evropa sad (EPP)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-bs–dcg–pes.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 34% | 100% | Median |
+| 2 | 66% | 66% |  |
+| 3 | 0% | 0% |  |
+
+### Građanski pokret Ujedinjena reformska akcija (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ura.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 15% | 15% |  |
+| 2 | 0% | 0% |  |
 
 ### Forca e Re Demokratike (*) – Pozitivna Crna Gora (*) – Pravda za sve (*) – Preokret za sigurnu Crnu Goru (*) – Unioni Demokratik i Shqiptarëve (*) – Покрет народног повјерења (*) – Уједињена Црна Гора (*)
 
@@ -647,16 +649,6 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
-
-### Građanski pokret Ujedinjena reformska akcija (Greens/EFA)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ura.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.5% | 100% | Last Result, Median |
-| 1 | 0.5% | 0.5% |  |
-| 2 | 0% | 0% |  |
 
 ### Pokret za promjene (ECR)
 
@@ -670,6 +662,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 2,097,152
-+ **Total number of simulations done in the polls included in this average:** 4,194,304
-+ **Error estimate:** 3.52%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Error estimate:** 2.35%
