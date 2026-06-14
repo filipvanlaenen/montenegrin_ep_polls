@@ -13,24 +13,24 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 12.4% | 9.8–16.4% | 9.5–17.1% | 9.2–17.7% | 8.6–18.8% |
 | [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 15.1% | 13.4–17.1% | 12.9–17.7% | 12.5–18.2% | 11.7–19.2% |
 | [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis | 10.5% | 9.5–11.7% | 9.2–12.1% | 8.9–12.4% | 8.4–13.0% |
-| [15 January 2026](2026-01-15-SpektrumAnalitika.html) | Spektrum Analitika | 0.0% | N/A | N/A | N/A | N/A |
-| [25 September–6 October 2025](2025-10-06-CeDem.html) | CeDem | 0.0% | N/A | N/A | N/A | N/A |
-| [29 July–12 August 2025](2025-08-12-Ipsos.html) | Ipsos | 0.0% | N/A | N/A | N/A | N/A |
-| [1–30 June 2025](2025-06-30-Ipsos.html) | Ipsos | 0.0% | N/A | N/A | N/A | N/A |
-| [8 June 2025](2025-06-08-STARSUP.html) | STARS UP | 0.0% | N/A | N/A | N/A | N/A |
-| [15 May 2025](2025-05-15-Borba.html) | Borba | 0.0% | N/A | N/A | N/A | N/A |
-| [5–14 May 2025](2025-05-14-Ipsos.html) | Ipsos <br> RTCG | 0.0% | N/A | N/A | N/A | N/A |
-| [1–30 April 2025](2025-04-30-Borba.html) | Borba | 0.0% | N/A | N/A | N/A | N/A |
-| [14–21 February 2025](2025-02-21-Borba.html) | Borba | 0.0% | N/A | N/A | N/A | N/A |
-| [1–11 February 2025](2025-02-11-Ipsos.html) | Ipsos <br> RTCG | 0.0% | N/A | N/A | N/A | N/A |
-| [20–22 January 2025](2025-01-22-Borba.html) | Borba | 0.0% | N/A | N/A | N/A | N/A |
-| [9–19 January 2025](2025-01-19-Ipsos.html) | Ipsos <br> RTCG | 0.0% | N/A | N/A | N/A | N/A |
-| [9–11 January 2025](2025-01-11-Borba.html) | Borba | 0.0% | N/A | N/A | N/A | N/A |
-| [23–24 December 2024](2024-12-24-Borba.html) | Borba | 0.0% | N/A | N/A | N/A | N/A |
-| [15 October–15 November 2024](2024-11-15-Borba.html) | Borba | 0.0% | N/A | N/A | N/A | N/A |
-| [14–15 October 2024](2024-10-15-Borba.html) | Borba | 0.0% | N/A | N/A | N/A | N/A |
-| [30 September–1 October 2024](2024-10-01-Borba.html) | Borba | 0.0% | N/A | N/A | N/A | N/A |
-| [1–7 August 2024](2024-08-07-Borba.html) | Borba | 0.0% | N/A | N/A | N/A | N/A |
+| [15 January 2026](2026-01-15-SpektrumAnalitika.html) | Spektrum Analitika | 15.4% | N/A | N/A | N/A | N/A |
+| [25 September–6 October 2025](2025-10-06-CeDem.html) | CeDem | 18.1% | N/A | N/A | N/A | N/A |
+| [29 July–12 August 2025](2025-08-12-Ipsos.html) | Ipsos | 13.9% | N/A | N/A | N/A | N/A |
+| [1–30 June 2025](2025-06-30-Ipsos.html) | Ipsos | 15.3% | N/A | N/A | N/A | N/A |
+| [8 June 2025](2025-06-08-STARSUP.html) | STARS UP | 15.8% | N/A | N/A | N/A | N/A |
+| [15 May 2025](2025-05-15-Borba.html) | Borba | 16.8% | N/A | N/A | N/A | N/A |
+| [5–14 May 2025](2025-05-14-Ipsos.html) | Ipsos <br> RTCG | 12.2% | N/A | N/A | N/A | N/A |
+| [1–30 April 2025](2025-04-30-Borba.html) | Borba | 16.8% | N/A | N/A | N/A | N/A |
+| [14–21 February 2025](2025-02-21-Borba.html) | Borba | 13.6% | N/A | N/A | N/A | N/A |
+| [1–11 February 2025](2025-02-11-Ipsos.html) | Ipsos <br> RTCG | 15.3% | N/A | N/A | N/A | N/A |
+| [20–22 January 2025](2025-01-22-Borba.html) | Borba | 14.8% | N/A | N/A | N/A | N/A |
+| [9–19 January 2025](2025-01-19-Ipsos.html) | Ipsos <br> RTCG | 15.0% | N/A | N/A | N/A | N/A |
+| [9–11 January 2025](2025-01-11-Borba.html) | Borba | 16.7% | N/A | N/A | N/A | N/A |
+| [23–24 December 2024](2024-12-24-Borba.html) | Borba | 16.1% | N/A | N/A | N/A | N/A |
+| [15 October–15 November 2024](2024-11-15-Borba.html) | Borba | 14.8% | N/A | N/A | N/A | N/A |
+| [14–15 October 2024](2024-10-15-Borba.html) | Borba | 15.5% | N/A | N/A | N/A | N/A |
+| [30 September–1 October 2024](2024-10-01-Borba.html) | Borba | 15.7% | N/A | N/A | N/A | N/A |
+| [1–7 August 2024](2024-08-07-Borba.html) | Borba | 12.2% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -70,9 +70,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
-| [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 1 | 1 | 1 | 1 | 1–2 |
-| [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis | 1 | 1 | 1 | 1 | 0–1 |
+| N/A | [Poll Average](average.html) |  |  |  |  |  |
+| [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika |  |  |  |  |  |
+| [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis |  |  |  |  |  |
 | [15 January 2026](2026-01-15-SpektrumAnalitika.html) | Spektrum Analitika |  |  |  |  |  |
 | [25 September–6 October 2025](2025-10-06-CeDem.html) | CeDem |  |  |  |  |  |
 | [29 July–12 August 2025](2025-08-12-Ipsos.html) | Ipsos |  |  |  |  |  |
@@ -97,12 +97,4 @@ Last result: **0** seats (General Election of 9 June 2024)
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-новасрпскадемократијаni.png "Seats Probability Mass Function")
 
 The following table shows the probability mass function per seat for the [poll average](average.html) for Нова српска демократија (NI).
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% | Last Result |
-| 1 | 98.7% | 99.7% | Median |
-| 2 | 1.0% | 1.0% |  |
-| 3 | 0% | 0% |  |
-
 

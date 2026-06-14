@@ -53,8 +53,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) |  |  |  |  |  |
+| [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika |  |  |  |  |  |
 | [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis |  |  |  |  |  |
 | [15 January 2026](2026-01-15-SpektrumAnalitika.html) | Spektrum Analitika |  |  |  |  |  |
 | [25 September–6 October 2025](2025-10-06-CeDem.html) | CeDem |  |  |  |  |  |
@@ -80,9 +80,4 @@ Last result: **0** seats (General Election of 9 June 2024)
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-alternativashqiptareni.png "Seats Probability Mass Function")
 
 The following table shows the probability mass function per seat for the [poll average](average.html) for Alternativa Shqiptare (NI).
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
 
