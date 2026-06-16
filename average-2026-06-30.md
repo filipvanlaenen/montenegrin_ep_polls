@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 4–9% <br> 0–1 | 20–29% <br> 2–3 | 3–7% <br> 0 | 1–3% <br> 0 | 3–8% <br> 0–1 | 5–8% <br> 0 | 13–23% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 6–10% <br> 0–1 | 9–18% <br> 1–2 | 0–1% <br> 0 | 0–2% <br> 0 | N/A <br> N/A | 0–2% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 |
 | [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 4–7% <br> 0 | 23–30% <br> 2–3 | 3–7% <br> 0 | 1–3% <br> 0 | 5–9% <br> 0–1 | 5–9% <br> 0 | 17–24% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 6–10% <br> 0–1 | 13–18% <br> 1–2 | 0–1% <br> 0 | 0–2% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 |
-| [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis | 6–9% <br> 0–1 | 20–24% <br> 2–3 | 4–7% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0 | 5–7% <br> 0 | 13–17% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–8% <br> 0–1 | 9–12% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis | 6–9% <br> 0–1 | 20–24% <br> 2–3 | 4–7% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0 | 5–7% <br> 0 | 13–17% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–8% <br> 0–1 | 9–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -424,8 +424,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0.5% | 0.5% |  |
 | 2 | 0% | 0% |  |
 
 ### Социјалистичка народна партија Црне Горе (S&D)
@@ -446,8 +446,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 57% | 100% | Last Result, Median |
-| 1 | 43% | 43% |  |
+| 0 | 63% | 100% | Last Result, Median |
+| 1 | 37% | 37% |  |
 | 2 | 0% | 0% |  |
 
 ### Demokratska Crna Gora (EPP)
@@ -458,8 +458,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.3% | 100% | Last Result, Median |
-| 1 | 0.7% | 0.7% |  |
+| 0 | 99.2% | 100% | Last Result, Median |
+| 1 | 0.8% | 0.8% |  |
 | 2 | 0% | 0% |  |
 
 ### Pokret Evropa sad (EPP)
@@ -471,8 +471,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 77% | 100% | Median |
-| 2 | 23% | 23% |  |
+| 1 | 71% | 100% | Median |
+| 2 | 29% | 29% |  |
 | 3 | 0% | 0% |  |
 
 ### Pokret za promjene (ECR)
@@ -499,8 +499,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 44% | 100% | Last Result |
-| 1 | 56% | 56% | Median |
+| 0 | 45% | 100% | Last Result |
+| 1 | 55% | 55% | Median |
 | 2 | 0% | 0% |  |
 
 ### Нова српска демократија (NI)
@@ -617,8 +617,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.0% | 100% |  |
-| 2 | 99.0% | 99.0% | Median |
+| 1 | 2% | 100% |  |
+| 2 | 98% | 98% | Median |
 | 3 | 0% | 0% |  |
 
 ### Bošnjačka stranka (EPP) – Demokratska Crna Gora (EPP) – Pokret Evropa sad (EPP)
@@ -628,8 +628,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 34% | 100% | Median |
-| 2 | 66% | 66% |  |
+| 1 | 33% | 100% | Median |
+| 2 | 67% | 67% |  |
 | 3 | 0% | 0% |  |
 
 ### Građanski pokret Ujedinjena reformska akcija (Greens/EFA)
@@ -662,6 +662,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 2,097,152
-+ **Error estimate:** 2.35%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 3.52%

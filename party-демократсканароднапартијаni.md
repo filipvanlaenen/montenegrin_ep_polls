@@ -63,7 +63,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis | 1 | 1 | 1 | 0–1 | 0–1 |
+| [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [15 January 2026](2026-01-15-SpektrumAnalitika.html) | Spektrum Analitika |  |  |  |  |  |
 | [25 September–6 October 2025](2025-10-06-CeDem.html) | CeDem |  |  |  |  |  |
 | [29 July–12 August 2025](2025-08-12-Ipsos.html) | Ipsos |  |  |  |  |  |
@@ -91,8 +91,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 44% | 100% | Last Result |
-| 1 | 56% | 56% | Median |
+| 0 | 45% | 100% | Last Result |
+| 1 | 55% | 55% | Median |
 | 2 | 0% | 0% |  |
 
 
