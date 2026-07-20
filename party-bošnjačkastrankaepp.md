@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 3.7–7.6% | 3.5–8.1% | 3.3–8.5% | 3.0–9.4% |
+| N/A | [Poll Average](average.html) | 4.9% | 3.2–7.6% | 3.0–8.1% | 2.8–8.5% | 2.5–9.4% |
+| [1–10 July 2026](2026-07-10-EuroSearchAnalytic.html) | EuroSearchAnalytic | 3.6% | 3.0–4.4% | 2.8–4.6% | 2.7–4.8% | 2.4–5.2% |
 | [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 6.7% | 5.5–8.1% | 5.2–8.6% | 5.0–8.9% | 4.5–9.7% |
 | [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis | 4.1% | 3.5–5.0% | 3.3–5.2% | 3.2–5.4% | 2.9–5.8% |
 | [15 January 2026](2026-01-15-SpektrumAnalitika.html) | Spektrum Analitika | 5.5% | N/A | N/A | N/A | N/A |
@@ -40,11 +41,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 6% | 100% |  |
-| 3.5–4.5% | 31% | 94% |  |
-| 4.5–5.5% | 17% | 62% | Median |
-| 5.5–6.5% | 17% | 46% |  |
+| 1.5–2.5% | 0.6% | 100% |  |
+| 2.5–3.5% | 21% | 99.4% |  |
+| 3.5–4.5% | 26% | 78% |  |
+| 4.5–5.5% | 7% | 52% | Median |
+| 5.5–6.5% | 16% | 45% |  |
 | 6.5–7.5% | 18% | 29% |  |
 | 7.5–8.5% | 9% | 11% |  |
 | 8.5–9.5% | 2% | 2% |  |
@@ -61,6 +62,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–10 July 2026](2026-07-10-EuroSearchAnalytic.html) | EuroSearchAnalytic | 0 | 0 | 0 | 0 | 0 |
 | [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis | 0 | 0 | 0 | 0 | 0 |
 | [15 January 2026](2026-01-15-SpektrumAnalitika.html) | Spektrum Analitika |  |  |  |  |  |

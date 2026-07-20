@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.6% | 1.0–2.3% | 0.9–2.5% | 0.8–2.8% | 0.6–3.2% |
+| [1–10 July 2026](2026-07-10-EuroSearchAnalytic.html) | EuroSearchAnalytic | 0.0% | N/A | N/A | N/A | N/A |
 | [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 1.5% | 1.0–2.3% | 0.9–2.5% | 0.8–2.8% | 0.6–3.2% |
 | [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis | 0.0% | N/A | N/A | N/A | N/A |
 | [15 January 2026](2026-01-15-SpektrumAnalitika.html) | Spektrum Analitika | 0.0% | N/A | N/A | N/A | N/A |
@@ -55,6 +56,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–10 July 2026](2026-07-10-EuroSearchAnalytic.html) | EuroSearchAnalytic |  |  |  |  |  |
 | [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 0 | 0 | 0 | 0 | 0 |
 | [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis |  |  |  |  |  |
 | [15 January 2026](2026-01-15-SpektrumAnalitika.html) | Spektrum Analitika |  |  |  |  |  |

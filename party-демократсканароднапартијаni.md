@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 6.1–8.6% | 5.9–9.0% | 5.6–9.5% | 5.2–10.3% |
+| N/A | [Poll Average](average.html) | 7.8% | 6.6–9.1% | 6.2–9.4% | 5.9–9.7% | 5.3–10.4% |
+| [1–10 July 2026](2026-07-10-EuroSearchAnalytic.html) | EuroSearchAnalytic | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.7% | 6.2–10.2% |
 | [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 7.5% | 6.3–9.0% | 5.9–9.4% | 5.7–9.8% | 5.1–10.6% |
 | [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis | 6.9% | 6.0–7.9% | 5.8–8.2% | 5.6–8.4% | 5.2–8.9% |
 | [15 January 2026](2026-01-15-SpektrumAnalitika.html) | Spektrum Analitika | 4.7% | N/A | N/A | N/A | N/A |
@@ -43,13 +44,13 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 2% | 100% |  |
-| 5.5–6.5% | 21% | 98% |  |
-| 6.5–7.5% | 41% | 77% | Median |
-| 7.5–8.5% | 25% | 36% |  |
-| 8.5–9.5% | 8% | 10% |  |
-| 9.5–10.5% | 2% | 2% |  |
-| 10.5–11.5% | 0.3% | 0.3% |  |
+| 4.5–5.5% | 0.9% | 100% |  |
+| 5.5–6.5% | 8% | 99.1% |  |
+| 6.5–7.5% | 28% | 91% |  |
+| 7.5–8.5% | 40% | 63% | Median |
+| 8.5–9.5% | 19% | 23% |  |
+| 9.5–10.5% | 3% | 4% |  |
+| 10.5–11.5% | 0.3% | 0.4% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -62,6 +63,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–10 July 2026](2026-07-10-EuroSearchAnalytic.html) | EuroSearchAnalytic | 1 | 1 | 1 | 0–1 | 0–1 |
 | [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–28 February 2026](2026-02-28-Datapraxis.html) | Datapraxis | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [15 January 2026](2026-01-15-SpektrumAnalitika.html) | Spektrum Analitika |  |  |  |  |  |
@@ -91,8 +93,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 45% | 100% | Last Result |
-| 1 | 55% | 55% | Median |
+| 0 | 44% | 100% | Last Result |
+| 1 | 56% | 56% | Median |
 | 2 | 0% | 0% |  |
 
 
