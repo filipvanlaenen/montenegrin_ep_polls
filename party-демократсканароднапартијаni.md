@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.3% | 7.4–9.4% | 7.2–9.7% | 6.9–9.9% | 6.5–10.5% |
+| N/A | [Poll Average](average.html) | 8.7% | 7.6–9.9% | 7.3–10.3% | 7.1–10.6% | 6.6–11.3% |
+| [10–19 October 2026](2026-10-19-SpektrumAnalitika.html) | Spektrum Analitika | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [1–10 August 2026](2026-08-10-EuroSearchAnalytic.html) | EuroSearchAnalytic | 8.3% | 7.4–9.4% | 7.1–9.7% | 6.9–9.9% | 6.5–10.5% |
 | [1–10 July 2026](2026-07-10-EuroSearchAnalytic.html) | EuroSearchAnalytic | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.7% | 6.2–10.2% |
 | [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 7.5% | 6.3–9.0% | 5.9–9.4% | 5.7–9.8% | 5.1–10.6% |
@@ -23,6 +24,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [15 May 2025](2025-05-15-Borba.html) | Borba | 5.0% | N/A | N/A | N/A | N/A |
 | [5–14 May 2025](2025-05-14-Ipsos.html) | Ipsos <br> RTCG | 3.6% | N/A | N/A | N/A | N/A |
 | [1–30 April 2025](2025-04-30-Borba.html) | Borba | 5.1% | N/A | N/A | N/A | N/A |
+| [10 March 2025](2025-03-10-Borba.html) | Borba | 4.4% | N/A | N/A | N/A | N/A |
 | [14–21 February 2025](2025-02-21-Borba.html) | Borba | 4.1% | N/A | N/A | N/A | N/A |
 | [1–11 February 2025](2025-02-11-Ipsos.html) | Ipsos <br> RTCG | 4.7% | N/A | N/A | N/A | N/A |
 | [20–22 January 2025](2025-01-22-Borba.html) | Borba | 4.5% | N/A | N/A | N/A | N/A |
@@ -46,13 +48,14 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.6% | 100% |  |
-| 6.5–7.5% | 13% | 99.4% |  |
-| 7.5–8.5% | 46% | 86% | Median |
-| 8.5–9.5% | 33% | 40% |  |
-| 9.5–10.5% | 6% | 7% |  |
-| 10.5–11.5% | 0.4% | 0.4% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 5.5–6.5% | 0.3% | 100% |  |
+| 6.5–7.5% | 8% | 99.7% |  |
+| 7.5–8.5% | 35% | 91% |  |
+| 8.5–9.5% | 38% | 56% | Median |
+| 9.5–10.5% | 15% | 18% |  |
+| 10.5–11.5% | 3% | 3% |  |
+| 11.5–12.5% | 0.2% | 0.3% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -63,7 +66,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [10–19 October 2026](2026-10-19-SpektrumAnalitika.html) | Spektrum Analitika | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [1–10 August 2026](2026-08-10-EuroSearchAnalytic.html) | EuroSearchAnalytic | 1 | 1 | 1 | 0–1 | 0–1 |
 | [1–10 July 2026](2026-07-10-EuroSearchAnalytic.html) | EuroSearchAnalytic | 1 | 1 | 1 | 0–1 | 0–1 |
 | [11–23 April 2026](2026-04-23-SpektrumAnalitika.html) | Spektrum Analitika | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -76,6 +80,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [15 May 2025](2025-05-15-Borba.html) | Borba |  |  |  |  |  |
 | [5–14 May 2025](2025-05-14-Ipsos.html) | Ipsos <br> RTCG |  |  |  |  |  |
 | [1–30 April 2025](2025-04-30-Borba.html) | Borba |  |  |  |  |  |
+| [10 March 2025](2025-03-10-Borba.html) | Borba |  |  |  |  |  |
 | [14–21 February 2025](2025-02-21-Borba.html) | Borba |  |  |  |  |  |
 | [1–11 February 2025](2025-02-11-Ipsos.html) | Ipsos <br> RTCG |  |  |  |  |  |
 | [20–22 January 2025](2025-01-22-Borba.html) | Borba |  |  |  |  |  |
@@ -95,8 +100,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 96% | 96% | Median |
+| 0 | 6% | 100% | Last Result |
+| 1 | 94% | 94% | Median |
 | 2 | 0% | 0% |  |
 
 
