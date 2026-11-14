@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/montenegrin_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Aug 2026 12:18:00 +0200</pubDate>
+    <pubDate>Sat, 14 Nov 2026 14:29:40 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Spektrum Analitika, 10–19 October 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/montenegrin_ep_polls/2026-10-19-SpektrumAnalitika.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Evropski savez (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Нова српска демократија (NI): 1 seats&lt;/li&gt;&lt;li&gt;Демократска народна партија (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Pokret Evropa sad (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Građanski pokret Ujedinjena reformska akcija (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Bošnjačka stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Demokratska partija socijalista Crne Gore (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Demokratska Crna Gora (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/montenegrin_ep_polls/2026-10-19-SpektrumAnalitika-seats.png"
+        length="272886"
+        type="image/png"/>
+      <pubDate>Sat, 14 Nov 2026 14:29:40 +0100</pubDate>
+      <dc:date>2026-11-14T14:29:40.394569+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spektrum Analitika, 10–19 October 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/montenegrin_ep_polls/2026-10-19-SpektrumAnalitika.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/montenegrin_ep_polls/2026-10-19-SpektrumAnalitika-coalitions-seats.png"
+        length="216059"
+        type="image/png"/>
+      <pubDate>Sat, 14 Nov 2026 14:29:40 +0100</pubDate>
+      <dc:date>2026-11-14T14:29:40.394569+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spektrum Analitika, 10–19 October 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/montenegrin_ep_polls/2026-10-19-SpektrumAnalitika.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Evropski savez (S&amp;amp;D): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Нова српска демократија (NI): 8.4–12.1%&lt;/li&gt;&lt;li&gt;Демократска народна партија (NI): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Pokret Evropa sad (EPP): 22.1–27.3%&lt;/li&gt;&lt;li&gt;Građanski pokret Ujedinjena reformska akcija (Greens/EFA): 6.4–9.8%&lt;/li&gt;&lt;li&gt;Bošnjačka stranka (EPP): 5.2–8.3%&lt;/li&gt;&lt;li&gt;Demokratska partija socijalista Crne Gore (S&amp;amp;D): 16.7–21.6%&lt;/li&gt;&lt;li&gt;Demokratska Crna Gora (EPP): 4.1–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/montenegrin_ep_polls/2026-10-19-SpektrumAnalitika.png"
+        length="325547"
+        type="image/png"/>
+      <pubDate>Sat, 14 Nov 2026 14:29:40 +0100</pubDate>
+      <dc:date>2026-11-14T14:29:40.394569+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by EuroSearchAnalytic, 1–10 August 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/montenegrin_ep_polls/2026-08-10-EuroSearchAnalytic.html#seats</link>
@@ -129,6 +159,6 @@
       <pubDate>Tue, 16 Jun 2026 21:57:58 +0200</pubDate>
       <dc:date>2026-06-16T21:57:58.123+02:00</dc:date>
     </item>
-    <dc:date>2026-08-22T12:18:00.956933+02:00</dc:date>
+    <dc:date>2026-11-14T14:29:40.394569+01:00</dc:date>
   </channel>
 </rss>
